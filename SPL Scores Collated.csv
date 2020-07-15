@@ -1,59 +1,87 @@
 ﻿HomeTeam,AwayTeam,HomeScore,AwayScore,Year
 Young Lions,Balestier Khals,1,4,2019
 Geylang,Albirex Niigata,1,0,2019
+Hougang Utd.,Tampines Rovers,1,5,2019
+Home Utd.,DPMM FC,0,1,2019
 Tampines Rovers,Home Utd,5,1,2019
 Balestier Khals,Hougang Utd,0,1,2019
 DPMM FC,Geylang,3,0,2019
 Warriors FC,Young Lions,2,0,2019
+Albirex Niigata,DPMM FC,0,0,2019
 Geylang,Tampines Rovers,0,1,2019
+Hougang Utd.,Warriors FC,5,1,2019
+Home Utd.,Balestier Khals,0,0,2019
 Tampines Rovers,Albirex Niigata,0,0,2019
 Warriors FC,Home Utd,0,3,2019
 Balestier Khals,Geylang,3,0,2019
 Young Lions,Hougang Utd,2,1,2019
-Geylang,Warriors,5,2,2019
+Geylang,Warriors FC,5,2,2019
 Albirex Niigata,Balestier Khals,2,1,2019
+Home Utd.,Young Lions,2,1,2019
 DPMM FC,Tampines Rovers,2,1,2019
+Hougang Utd.,Home Utd,1,0,2019
 Warriors FC,Albirex Niigata,1,2,2019
+Balestier Khals,DPMM FC,1,7,2019
 Young Lions,Geylang,0,1,2019
-DPMM FC,Warriors,4,2,2019
+Hougang Utd.,Geylang,4,1,2019
+DPMM FC,Warriors FC,4,2,2019
 Albirex Niigata,Young Lions,2,1,2019
 Balestier Khals,Tampines Rovers,1,1,2019
+Hougang Utd.,Albirex Niigata,4,2,2019
 Warriors FC,Tampines Rovers,1,1,2019
+Home Utd.,Geylang,3,0,2019
 DPMM FC,Young Lions,0,0,2019
 Albirex Niigata,Home Utd,4,0,2019
-Balestier Khals,Warriors,2,1,2019
+Balestier Khals,Warriors FC,2,1,2019
 DPMM FC,Hougang Utd,3,2,2019
 Tampines Rovers,Young Lions,4,0,2019
 Balestier Khals,Young Lions,0,1,2019
 DPMM FC,Home Utd,2,0,2019
 Albirex Niigata,Geylang,2,0,2019
 Tampines Rovers,Hougang Utd,3,3,2019
-Young Lions,Warriors,0,2,2019
+Geylang,DPMM FC,1,3,2019
+Young Lions,Warriors FC,0,2,2019
+Hougang Utd.,Balestier Khals,1,0,2019
+Home Utd.,Tampines Rovers,2,4,2019
+Albirex Niigata,DPMM FC,0,0,2019
 Warriors FC,Hougang Utd,3,2,2019
 Tampines Rovers,Geylang,1,1,2019
 Balestier Khals,Home Utd,2,4,2019
 Albirex Niigata,Tampines Rovers,3,1,2019
+Home Utd.,Warriors FC,4,4,2019
 Geylang,Balestier Khals,5,0,2019
+Young Lions,DPMM FC,1,1,2019
 Balestier Khals,Albirex Niigata,1,3,2019
+Tampines Rovers,DPMM FC,3,1,2019
 Warriors FC,Geylang,1,2,2019
 DPMM FC,Balestier Khals,2,1,2019
 Geylang,Young Lions,1,2,2019
-Albirex Niigata,Warriors,1,0,2019
+Home Utd.,Hougang Utd,0,2,2019
+Albirex Niigata,Warriors FC,1,0,2019
 Young Lions,Home Utd,0,1,2019
 Geylang,Hougang Utd,2,2,2019
 Young Lions,Albirex Niigata,1,2,2019
+Warriors FC,DPMM FC,3,3,2019
 Tampines Rovers,Balestier Khals,4,2,2019
+Hougang Utd.,Young Lions,0,1,2019
 Geylang,Home Utd,2,3,2019
 Albirex Niigata,Hougang Utd,1,2,2019
-Tampines Rovers,Warriors,1,2,2019
+Young Lions,DPMM FC,0,1,2019
+Tampines Rovers,Warriors FC,1,2,2019
+Home Utd.,Albirex Niigata,3,3,2019
 Young Lions,Tampines Rovers,1,1,2019
 Warriors FC,Balestier Khals,3,3,2019
+Hougang Utd.,DPMM FC,3,1,2019
 Geylang,Albirex Niigata,1,0,2019
+Home Utd.,DPMM FC,1,0,2019
+Hougang Utd.,Tampines Rovers,2,4,2019
 Young Lions,Balestier Khals,1,0,2019
 DPMM FC,Geylang,3,0,2019
 Tampines Rovers,Home Utd,3,0,2019
 Warriors FC,Young Lions,2,0,2019
 Balestier Khals,Hougang Utd,3,4,2019
+Hougang Utd.,Warriors FC,3,1,2019
+Home Utd.,Balestier Khals,1,3,2019
 Geylang,Tampines Rovers,2,1,2019
 DPMM FC,Albirex Niigata,2,0,2019
 Warriors FC,Home Utd,1,3,2019
@@ -62,159 +90,236 @@ Balestier Khals,Geylang,3,4,2019
 Young Lions,Hougang Utd,2,4,2019
 Young Lions,Geylang,1,2,2019
 Warriors FC,Albirex Niigata,2,1,2019
+Hougang Utd.,Home Utd,2,0,2019
+Balestier Khals,DPMM FC,1,4,2019
 Tampines Rovers,Balestier Khals,3,3,2019
-DPMM FC,Warriors,3,0,2019
+DPMM FC,Warriors FC,3,0,2019
 Albirex Niigata,Young Lions,4,1,2019
 Geylang,Hougang Utd,4,4,2019
 Albirex Niigata,Balestier Khals,2,0,2019
-Geylang,Warriors,4,3,2019
+Geylang,Warriors FC,4,3,2019
+Home Utd.,Young Lions,0,3,2019
 DPMM FC,Tampines Rovers,0,1,2019
+Hougang Utd.,Albirex Niigata,1,1,2019
+Home Utd.,Geylang,3,2,2019
 Warriors FC,Tampines Rovers,0,1,2019
+Balestier Khals,Warriors FC,3,3,2019
+DPMM FC,Hougang Utd,5,4,2019
+Albirex Niigata,Home Utd,1,0,2019
+Tampines Rovers,Young Lions,1,1,2019
 Albirex Niigata,Tampines Rovers,2,1,2018
 Young Lions,Hougang Utd,2,0,2018
-Geylang,Warriors,1,1,2018
+Home Utd.,Balestier Khals,3,1,2018
+Geylang,Warriors FC,1,1,2018
 Tampines Rovers,Geylang,3,1,2018
 DPMM FC,Home Utd,4,2,2018
 Warriors FC,Young Lions,0,1,2018
 Balestier Khals,Albirex Niigata,0,1,2018
 Balestier Khals,Young Lions,3,1,2018
+Albirex Niigata,DPMM FC,2,0,2018
 Geylang,Balestier Khals,0,1,2018
+Hougang Utd.,Warriors FC,1,1,2018
 DPMM FC,Geylang,4,1,2018
+Home Utd.,Albirex Niigata,1,6,2018
 Tampines Rovers,Hougang Utd,4,0,2018
 Warriors FC,Tampines Rovers,0,0,2018
+Hougang Utd.,Balestier Khals,1,1,2018
 Geylang,Home Utd,1,4,2018
 Albirex Niigata,Geylang,5,0,2018
-Balestier Khals,Warriors,2,1,2018
+Balestier Khals,Warriors FC,2,1,2018
 Tampines Rovers,Balestier Khals,1,0,2018
+Warriors FC,DPMM FC,2,2,2018
+Hougang Utd.,Home Utd,3,3,2018
+Home Utd.,Warriors FC,3,3,2018
 Albirex Niigata,Hougang Utd,1,0,2018
 Geylang,Young Lions,1,1,2018
+Hougang Utd.,Geylang,1,3,2018
+Balestier Khals,DPMM FC,1,2,2018
 Warriors FC,Albirex Niigata,1,2,2018
 Tampines Rovers,Home Utd,1,0,2018
 Young Lions,Albirex Niigata,1,3,2018
+Hougang Utd.,Young Lions,1,2,2018
 Balestier Khals,Home Utd,2,1,2018
 Warriors FC,Geylang,0,2,2018
 Tampines Rovers,Albirex Niigata,3,4,2018
-Young Lions,Warriors,1,1,2018
+Young Lions,DPMM FC,1,1,2018
+Home Utd.,DPMM FC,3,1,2018
+Young Lions,Warriors FC,1,1,2018
 Albirex Niigata,Balestier Khals,5,0,2018
 Geylang,Tampines Rovers,1,2,2018
 Young Lions,Tampines Rovers,0,4,2018
 Warriors FC,Hougang Utd,2,0,2018
 Balestier Khals,Geylang,1,2,2018
+Albirex Niigata,DPMM FC,5,0,2018
 Tampines Rovers,Young Lions,3,1,2018
+Home Utd.,Young Lions,4,1,2018
 Albirex Niigata,Home Utd,3,0,2018
+Hougang Utd.,Tampines Rovers,0,2,2018
+Geylang,DPMM FC,2,6,2018
 Young Lions,Balestier Khals,0,2,2018
-Tampines Rovers,Warriors,2,3,2018
+Tampines Rovers,Warriors FC,2,3,2018
+Home Utd.,Geylang,2,0,2018
 Balestier Khals,Hougang Utd,0,1,2018
 Warriors FC,Balestier Khals,3,0,2018
 Young Lions,Home Utd,1,1,2018
 Geylang,Albirex Niigata,0,3,2018
+Hougang Utd.,DPMM FC,1,1,2018
 Balestier Khals,Tampines Rovers,2,5,2018
-DPMM FC,Warriors,2,1,2018
+DPMM FC,Warriors FC,2,1,2018
+Home Utd.,Hougang Utd,1,0,2018
 Young Lions,Geylang,1,3,2018
+Tampines Rovers,DPMM FC,0,2,2018
+Hougang Utd.,Albirex Niigata,1,2,2018
 Warriors FC,Home Utd,0,2,2018
 DPMM FC,Balestier Khals,2,2,2018
-Albirex Niigata,Warriors,2,0,2018
+Home Utd.,Tampines Rovers,0,0,2018
+Albirex Niigata,Warriors FC,2,0,2018
+Home Utd.,Young Lions,2,0,2018
 DPMM FC,Hougang Utd,3,2,2018
 Young Lions,Hougang Utd,3,0,2018
 Albirex Niigata,Tampines Rovers,2,1,2018
-Geylang,Warriors,0,1,2018
+Home Utd.,Balestier Khals,1,1,2018
+Geylang,Warriors FC,0,1,2018
 Albirex Niigata,Young Lions,5,1,2018
 DPMM FC,Tampines Rovers,1,1,2018
 Tampines Rovers,Geylang,4,1,2018
 DPMM FC,Home Utd,1,2,2018
 Warriors FC,Young Lions,1,0,2018
 Balestier Khals,Albirex Niigata,1,1,2018
+Hougang Utd.,Warriors FC,1,2,2018
 Young Lions,Tampines Rovers,2,1,2018
 Geylang,Balestier Khals,1,0,2018
 Geylang,Hougang Utd,0,3,2018
 DPMM FC,Albirex Niigata,1,3,2018
 DPMM FC,Geylang,2,2,2018
 Balestier Khals,Young Lions,1,0,2018
+Home Utd.,Albirex Niigata,1,1,2018
 Tampines Rovers,Hougang Utd,1,0,2018
 Warriors FC,Tampines Rovers,2,1,2018
 Geylang,Home Utd,1,5,2018
+Hougang Utd.,Balestier Khals,1,2,2018
+Young Lions,DPMM FC,1,1,2018
 Albirex Niigata,Geylang,4,0,2018
 DPMM FC,Hougang Utd,3,1,2018
-Balestier Khals,Warriors,2,2,2018
+Balestier Khals,Warriors FC,2,2,2018
 Young Lions,Albirex Niigata,1,3,2018
+Warriors FC,DPMM FC,1,2,2018
 Tampines Rovers,Balestier Khals,1,0,2018
+Hougang Utd.,Home Utd,1,2,2018
 Geylang,Young Lions,2,2,2018
 DPMM FC,Tampines Rovers,2,1,2018
 Albirex Niigata,Hougang Utd,2,2,2018
+Home Utd.,Warriors FC,4,3,2018
+Balestier Khals,DPMM FC,0,0,2018
+Hougang Utd.,Geylang,1,1,2018
 Warriors FC,Albirex Niigata,1,2,2018
 Tampines Rovers,Home Utd,1,1,2018
 DPMM FC,Young Lions,3,1,2018
 Albirex Niigata,Tampines Rovers,2,1,2017
-Balestier Khals,Warriors,1,2,2017
+Home Utd.,Young Lions,6,1,2017
+Hougang Utd.,Geylang,2,0,2017
+Balestier Khals,Warriors FC,1,2,2017
 Tampines Rovers,Hougang Utd,2,1,2017
 DPMM FC,Home Utd,1,3,2017
 Young Lions,Albirex Niigata,0,5,2017
 Geylang,Balestier Khals,2,0,2017
+Albirex Niigata,DPMM FC,2,0,2017
 Warriors FC,Geylang,1,1,2017
 Balestier Khals,Tampines Rovers,0,1,2017
-Tampines Rovers,Warriors,0,1,2017
+Hougang Utd.,Young Lions,2,0,2017
+Tampines Rovers,Warriors FC,0,1,2017
+Home Utd.,Albirex Niigata,2,2,2017
 Balestier Khals,Young Lions,1,0,2017
 DPMM FC,Hougang Utd,2,0,2017
+Balestier Khals,DPMM FC,2,1,2017
 Geylang,Tampines Rovers,0,4,2017
 Warriors FC,Young Lions,4,3,2017
+Hougang Utd.,Home Utd,0,2,2017
 Albirex Niigata,Hougang Utd,2,0,2017
 Young Lions,Geylang,0,2,2017
-DPMM FC,Warriors,3,5,2017
+DPMM FC,Warriors FC,3,5,2017
+Geylang,DPMM FC,2,0,2017
 Balestier Khals,Albirex Niigata,0,3,2017
 Warriors FC,Home Utd,2,2,2017
 Tampines Rovers,Young Lions,1,0,2017
+Hougang Utd.,Balestier Khals,1,0,2017
+Home Utd.,Geylang,3,0,2017
 DPMM FC,Tampines Rovers,0,1,2017
-Albirex Niigata,Warriors,4,2,2017
+Albirex Niigata,Warriors FC,4,2,2017
+Home Utd.,Balestier Khals,1,0,2017
 Warriors FC,Hougang Utd,0,2,2017
 Geylang,Albirex Niigata,0,1,2017
 Tampines Rovers,Home Utd,3,2,2017
+Young Lions,DPMM FC,0,0,2017
 Warriors FC,Balestier Khals,1,0,2017
 Geylang,Hougang Utd,1,1,2017
 Tampines Rovers,Albirex Niigata,1,4,2017
 Young Lions,Home Utd,1,2,2017
+Home Utd.,DPMM FC,9,3,2017
+Hougang Utd.,Tampines Rovers,0,3,2017
 Albirex Niigata,Young Lions,8,0,2017
 Balestier Khals,Geylang,0,1,2017
-Geylang,Warriors,0,2,2017
+Geylang,Warriors FC,0,2,2017
+Albirex Niigata,DPMM FC,4,0,2017
 Tampines Rovers,Balestier Khals,3,1,2017
 Warriors FC,Tampines Rovers,0,1,2017
 Young Lions,Balestier Khals,0,0,2017
 Albirex Niigata,Home Utd,0,2,2017
-Young Lions,Warriors,0,0,2017
+Young Lions,Warriors FC,0,0,2017
 Tampines Rovers,Geylang,1,1,2017
+Home Utd.,Hougang Utd,2,3,2017
 Geylang,Young Lions,2,1,2017
+Warriors FC,DPMM FC,1,0,2017
+Hougang Utd.,Albirex Niigata,2,1,2017
 Balestier Khals,Home Utd,1,2,2017
 DPMM FC,Geylang,0,1,2017
+Home Utd.,Warriors FC,1,1,2017
 Albirex Niigata,Balestier Khals,2,1,2017
+Tampines Rovers,DPMM FC,2,0,2017
 Balestier Khals,Hougang Utd,0,0,2017
 Warriors FC,Albirex Niigata,1,2,2017
+Hougang Utd.,Warriors FC,0,1,2017
 Albirex Niigata,Geylang,5,0,2017
-Balestier Khals,Warriors,2,2,2017
+Balestier Khals,Warriors FC,2,2,2017
+Hougang Utd.,Geylang,0,1,2017
 Albirex Niigata,Tampines Rovers,4,0,2017
+Balestier Khals,DPMM FC,2,2,2017
 Young Lions,Albirex Niigata,0,1,2017
 DPMM FC,Home Utd,1,4,2017
 Geylang,Balestier Khals,2,0,2017
 Tampines Rovers,Hougang Utd,5,1,2017
 Young Lions,Tampines Rovers,0,4,2017
 Warriors FC,Geylang,0,2,2017
+Hougang Utd.,Young Lions,2,1,2017
 DPMM FC,Albirex Niigata,0,1,2017
 Balestier Khals,Tampines Rovers,0,1,2017
+Home Utd.,Albirex Niigata,1,1,2017
 DPMM FC,Hougang Utd,1,4,2017
-Tampines Rovers,Warriors,1,1,2017
+Tampines Rovers,Warriors FC,1,1,2017
 Young Lions,Balestier Khals,0,1,2017
 Geylang,Home Utd,1,3,2017
+Hougang Utd.,DPMM FC,1,2,2017
 DPMM FC,Young Lions,7,1,2017
 Warriors FC,Young Lions,0,1,2017
 Geylang,Tampines Rovers,2,3,2017
+Hougang Utd.,Home Utd,0,2,2017
 DPMM FC,Balestier Khals,1,4,2017
 Albirex Niigata,Hougang Utd,1,0,2017
+Home Utd.,Balestier Khals,2,0,2017
 Young Lions,Geylang,0,4,2017
-DPMM FC,Warriors,3,2,2017
+DPMM FC,Warriors FC,3,2,2017
+Home Utd.,Tampines Rovers,0,2,2017
 Young Lions,Hougang Utd,0,1,2017
 Balestier Khals,Albirex Niigata,0,3,2017
 Warriors FC,Home Utd,2,1,2017
+Geylang,DPMM FC,4,1,2017
 Tampines Rovers,Young Lions,3,0,2017
-Albirex Niigata,Warriors,5,1,2017
+Home Utd.,Young Lions,4,0,2017
+Hougang Utd.,Balestier Khals,0,1,2017
+Albirex Niigata,Warriors FC,5,1,2017
 DPMM FC,Tampines Rovers,0,5,2017
+Home Utd.,Geylang,2,1,2017
 Warriors FC,Hougang Utd,1,1,2017
 Geylang,Albirex Niigata,2,7,2017
+Young Lions,DPMM FC,1,2,2017
 Tampines Rovers,Home Utd,0,0,2017
